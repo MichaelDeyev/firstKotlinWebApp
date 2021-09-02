@@ -10,3 +10,5 @@ spring:
     url: jdbc:postgresql://localhost:5432/testktdb
     username: postgres
     password: 123
+server:
+  port: 8081
